@@ -1,0 +1,125 @@
+h1, h2, p {
+	text-align: center;
+}
+h1, h2 {
+	color: #7d7118;
+}
+
+body {
+	background-image: url(https://nhpbs.org/wild/images/baldcypresskneesusfwnedTrovillion.jpg);
+	font-family: sans-serif;
+	background-position: center; 
+	background-size: cover;
+}
+.top-half img {
+	margin: auto;
+	display: block;
+	width: 21%;	
+	height: auto;
+	margin-top: -10px;
+	margin-bottom: 20px;
+}
+img:hover {
+	background-color: yellow;
+}
+.lower-half img {
+	margin: auto;
+	display: block;
+	width: 26%;
+    height: auto;	
+	margin-top: -10px;
+	margin-bottom: 20px;
+	
+}
+
+
+/*style sheet line break */
+
+.mainbody {
+	background-color: #49d6e9;
+	width: 75%;
+	max-width: 650px;
+	margin-left: auto;	
+	margin-right: auto;
+	padding: 20px;
+	margin-top: 40px; 
+}  
+.previd {
+	font-size: 15px;
+	font-style: italic;
+}
+.protein {
+	text-align: center;
+	width: 65%;
+}
+.price {
+	text-align: left;
+	width: 35%;
+}
+.entree p {
+	display: inline-block;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	font-size: 20px;
+}
+h1, h2 {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+	font-size: 50px;
+	margin-top: 0px;
+	margin-bottom: 8px;
+}
+/*syles for the for line breaks*/
+
+.middle-line {
+	width: 350px;
+	border-color: #c9ff12;
+	height: 3px;
+	background-color: #808080;
+	margin-bottom: 30px;
+	margin-top: 30px; 
+}
+.top-line {
+	height: 3px;
+	background-color: #cc7033;
+	border-color: #c9ff12;
+}
+.bottom-line {
+	height: 3px;
+	background-color: #cc7033;
+	border-color: #c9ff12;
+	margin-top: 30px;
+	margin-bottom: 30px; 
+}
+
+
+/*styles for the swamp sides menu*/
+.lower-half {
+	background-color: #449ba1;
+	width: 75%;
+	
+	margin-left: auto;	
+	margin-right: auto;
+	padding: 10px;
+}
+.sidesprice {
+	text-align: center;
+	width: 35%;
+}
+.swampsides {
+	text-align: center;
+	width: 65%;
+}
+
+/*Footer styling*/
+.footnote {
+	padding: 5px;
+	background-color: #00e6b2;
+}
+a {
+	color: black;
+}
+a:visited {color: #8a9975;}
+a:hover {color: red;}
+a:active {color: #d9f0ff;}
